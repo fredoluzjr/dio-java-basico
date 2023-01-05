@@ -1,7 +1,7 @@
 /**
  * Classe de exemplo para o exercício da Aula 3 de Métodos.
  */
-public class Quadrilatero {
+public class QuadrilateroRetorno {
 
     public static double area(double lado) {
 
