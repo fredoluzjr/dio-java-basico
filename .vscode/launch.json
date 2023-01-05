@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Ex4_ArrayMultidimensional",
+            "request": "launch",
+            "mainClass": "Ex4_ArrayMultidimensional",
+            "projectName": "dio-java-basico_7435083d"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
